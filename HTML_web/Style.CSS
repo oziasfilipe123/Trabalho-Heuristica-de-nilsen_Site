@@ -1,0 +1,70 @@
+/*
+h2 {
+    /*background-color: white;
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}*/
+
+body {}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #008B8B;
+    height: 100px;
+    padding: 25px;
+}
+
+.Minha_Divisao {
+    height: 400px;
+    width: 100%;
+    color: blanchedalmond;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    background-image: url("city.jpg");
+    background-size: 100%;
+    clear: both;
+}
+
+footer {
+    background-color: white;
+    height: 150px;
+    text-align: center;
+    font-style: italic;
+    text-align: center;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+.Logo {
+    float: left;
+}
+
+#Menu {
+    float: right;
+    margin-top: 100px;
+}
+
+#Menu a {
+    text-decoration: greenyellow;
+    color: rgb(194, 194, 173);
+    padding: 25px;
+}
+
+#Menu a:hover {
+    color: black;
+}
+
+.efeitos {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}

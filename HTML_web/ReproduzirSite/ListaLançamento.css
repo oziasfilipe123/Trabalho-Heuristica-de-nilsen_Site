@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ListaDeLançamento {
+    color: white;
+    text-align: center;
+    background-color: rgba(173, 216, 230, 0.5);
+}

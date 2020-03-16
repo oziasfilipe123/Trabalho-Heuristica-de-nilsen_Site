@@ -1,0 +1,15 @@
+* {}
+
+.CorpoDaPagina {
+    background-color: transparent;
+}
+
+.CorpoDaPagina p {
+    text-align: center;
+    background-color: thistle;
+}
+
+.CorpoDaPagina h1 {
+    text-align: center;
+    color: tomato;
+}

@@ -1,0 +1,76 @@
+<!Doctype html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <title>Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="w3c_Css.css">
+</head>
+
+<body>
+    <header>
+        <div class="Navegacao">
+
+            <img src="UxDes/LogoBorda.png" alt="Logotipo" height="100px" width="100px">
+            <h3> Animais </h3>
+
+
+
+            <a href="Index.html" class="Item-Nav"><img src="UxDes/icon_Contato.png" alt="Contato" height="50px"></a>
+            <a href="Pagina_Proucurar.html" class="Item-Nav"><img src="UxDes/icon_Proucurar.png" alt="Contato" height="50px"></a>
+
+            <a href="Pagina_Ajuda.html" class="Item-Nav"><img src="UxDes/icon_Config.png" alt="Contato" height="50px"></a>
+
+            <a href="Pagina_Contato.html" class="Item-Nav"><img src="UxDes/icon_Contato2.png" alt="Contato" height="50px"></a>
+
+            <a href="PaginaInicial.html" class="Item-Nav"><img src="UxDes/icon_MenuIncial.png" alt="Menu" height="50px"></a>
+
+        </div>
+    </header>
+    <div class="Pagina">
+        <article>
+            <section>
+                <div>
+                    <form action="text">
+
+                        <div class="ItemInput">
+                            <input type="text" value="" name="Email">
+                        </div>
+                        <div class="ItemInput">
+                            <input type="text" value="" name="Senha">
+                        </div>
+                        <div class="ItemInput">
+                            <input type="button" value="Entrar" name="BotaoEntrar">
+                        </div>
+                    </form>
+                </div>
+                <div>
+                    <div class="PaginaImagemFundo">
+                        <img src="https://www.ecoticias.com/userfiles/extra/YIHS_92.jpg" alt="">
+
+                    </div>
+            </section>
+        </article>
+        </div>
+
+        <aside></aside>
+
+        <footer>
+        </footer>
+
+        <script>
+            var email = window.document.getElementsByName("Email");
+            var Senha = window.document.getElementsByTagName("Senha");
+            var BotaoEntrar = window.document.getElementsByTagName("BotaoEntrar");
+
+            BotaoEntrar = addEventListener("click", function() {
+
+                console.log(email.value);
+            });
+        </script>
+</body>
+
+</html>

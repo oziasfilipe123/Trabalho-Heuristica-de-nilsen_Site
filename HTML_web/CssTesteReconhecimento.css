@@ -1,0 +1,29 @@
+* {
+    content: 0%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.Content {
+    background-color: green;
+    height: 150px;
+    width: 100%;
+}
+
+#imagem {
+    padding: 30px;
+}
+
+#Paragragos_De_Alinhamentos {
+    text-align: center;
+    height: 500px;
+    background-image: url("city.jpg");
+    width: 100%;
+}
+
+.FlooterContent {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

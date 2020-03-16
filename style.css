@@ -1,0 +1,172 @@
+        * {
+            padding: 0%;
+            margin: 0%;
+        }
+        
+        body {
+            background-color: white;
+        }
+        
+        .nav {
+            background-color: rgb(155, 155, 155);
+            height: 40px;
+            border: 3px solid black;
+        }
+        
+        .Navegacao {
+            background-color: #000080;
+            height: 40px;
+            color: white;
+        }
+        
+        .Navegacao p {
+            color: white;
+            margin-top: 30px;
+            margin-right: 35px;
+            font-family: arial;
+            font-size: 13px;
+            text-decoration: none;
+        }
+        
+        .NavegacaoDupla {
+            border: 1px solid black
+        }
+        
+        .Navegacao img {
+            float: left;
+        }
+        
+        .Navegacao h3 {
+            float: left;
+        }
+        
+        .SubNav {
+            background-color: chocolate;
+            height: 25px;
+        }
+        
+        .Pagina {
+            margin: 50px 0px 0px 35px;
+        }
+        
+        .Pagina form {
+            float: right;
+            border: 3px solid chocolate;
+        }
+        
+        .ItemInput {
+            border: 5px solid chocolate;
+            border-radius: 30%;
+        }
+        
+        .ItemInput div div div {
+            align-items: center;
+            padding-left: 30px;
+        }
+        
+        .PaginaImagemFundo {
+            padding-top: 30px;
+            clear: both;
+        }
+        
+        .footer {
+            clear: both;
+            text-align: center;
+            color: blanchedalmond;
+        }
+        
+        .Item-Nav {
+            padding: 15px;
+            float: right;
+            text-decoration: none;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        
+        .Navegacao img:hover {
+            height: 70px;
+            width: 70px;
+        }
+        
+        .Button-Cor-Grean {
+            color: white;
+            background-color: green;
+        }
+        
+        .AtributoPagina_Text1 {
+            width: 35%;
+            margin-left: 100px;
+            float: left;
+            margin-right: 20px;
+            margin-top: 25px;
+            color: black;
+        }
+        
+        .AtributoPagina_Text1 p {
+            color: white;
+        }
+        
+        .AtributoPagina_Text2 {
+            width: 35%;
+            float: right;
+            margin-top: 25px;
+            margin-right: 45px;
+            color: black;
+        }
+        
+        .AtributoPagina_Text2 p {
+            color: white;
+        }
+        
+        .Tabela-primary {
+            border: 2px solid;
+            width: 35%;
+            margin-left: 30%;
+        }
+        
+        .button-Adotar-colorGrean {
+            height: 30px;
+            border-radius: 20%;
+            color: black;
+            background-color: greenyellow;
+            margin-left: 90px;
+            margin-bottom: 30px;
+        }
+        
+        .button-Adotar-colorRed {
+            height: 30px;
+            border-radius: 20%;
+            color: black;
+            background-color: red;
+            margin-left: 70px;
+            margin-bottom: 30px;
+            border: 1px solid;
+        }
+        
+        .Inform-Contato-align {
+            text-align: center;
+            border: 1px solid black;
+            padding-top: 50px;
+        }
+        
+        .CadastroPagina {
+            background-color: rgb(238, 48, 167);
+            border: 2px solid black;
+            border-radius: 20%;
+        }
+        
+        .Navegacao h3 {
+            font-family: Feelin Sweet;
+            margin-left: 10px;
+        }
+        
+        .ImagemAnimaisPersonalizar {
+            border-radius: 10%;
+            margin-left: 70px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+        }
+        
+        .ImagemAnimaisPersonalizar img:hover {
+            opacity: 50%;
+        }

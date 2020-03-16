@@ -1,0 +1,133 @@
+    /* Css Estilo Site*/
+    
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background-color: #212529;
+    }
+    /* Class ContentPrincipal*/
+    
+    .ContentPrincipal {
+        background-color: #343a40;
+        background-size: 450px;
+        padding: 28px;
+        float: inline-start;
+        height: 35px;
+    }
+    /* Class Principal*/
+    
+    .Principal {}
+    
+    .Principal a {
+        text-align: center;
+        color: royalblue;
+        text-decoration-color: transparent;
+    }
+    
+    .Principal a:hover {
+        color: red;
+    }
+    
+    .Proucurar_ID {
+        background-color: cadetblue;
+        float: right;
+        margin-top: 35px;
+    }
+    /* Class Menu*/
+    
+    #Menu {
+        float: inline-start;
+        padding-top: 10px;
+        margin-left: 15px;
+    }
+    
+    #Menu a {
+        color: whitesmoke;
+        text-decoration-color: #343a40;
+        padding-right: 20px;
+    }
+    
+    #Menu a:hover {
+        color: red;
+        text-decoration-color: #343a40;
+        padding-right: 20px;
+    }
+    /* Class ImageLogo*/
+    
+    #ImageLogo {
+        float: left;
+        margin-right: 25px;
+    }
+    /* Class ListaLançamentosdeSeries*/
+    
+    #ListaLançamentosdeSeries {
+        height: auto;
+        width: 300px;
+        color: white;
+        padding: 40px 10px 40px 40px;
+        margin: 25px 0 25px 10px;
+        float: left;
+    }
+    /* Class ListaNovosEpsodiosDubladosDeSeries*/
+    
+    #ListaNovosEpsodiosDubladosDeSeries {
+        color: white;
+        height: auto;
+        width: 300px;
+        padding: 40px;
+        margin: 25px 3px 25px 0px;
+        float: left;
+    }
+    /* Class osmaisbaixados*/
+    
+    #osmaisbaixados {
+        background-color: rgba(255, 255, 255, 0.973);
+        color: black;
+        text-align: center;
+        float: right;
+        height: 100%;
+        width: 260px;
+        float: right;
+        margin: 25px 5pxpx 25px 2.5px;
+    }
+    /* Class Principal*/
+    
+    .Principal li {
+        background-color: rgba(173, 216, 230, 0.5);
+        text-decoration-color: springgreen;
+        color: white;
+        padding: 10px;
+    }
+    
+    .Principal li:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration-color: springgreen;
+        padding: 20px;
+    }
+    /*Final Da Pagina- FinalBase*/
+    
+    .FinalBase {
+        background-color: slategray;
+        height: 110px;
+        text-align: center;
+        clear: both;
+        border-radius: 10%;
+    }
+    
+    .FinalBase a {
+        float: left;
+        padding-left: 10px;
+    }
+    
+    .FinalBase h4 {
+        text-align: center;
+    }
+    
+    #MenuFinal {
+        background-color: slategray;
+        padding-left: 380px;
+    }

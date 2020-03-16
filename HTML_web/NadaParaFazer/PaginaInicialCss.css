@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.NavBorder {
+    background-color: dimgray;
+}
+
+.NavBorder a {
+    color: firebrick;
+    padding-bottom: 50px;
+}
+
+.NavBorder i {
+    margin-left: 30px;
+}
+
+.CorpoPagina {}
+
+#AAA {
+    float: right;
+    color: firebrick;
+}
+
+.outro {
+    float: right;
+    text-align: center;
+}
+
+#FilaFilmes1 {
+    float: left;
+}
+
+#FilFilmes2 {
+    float: right;
+}
